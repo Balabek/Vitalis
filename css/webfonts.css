@@ -1,0 +1,70 @@
+/* Sofia Pro Web */
+
+/* ----------------- */
+
+/* font-weight: REGULAR */
+@font-face {
+    font-family: 'Sofia Pro Regular';
+    src: url('../fonts/SofiaProRegular.eot') format('embedded-opentype'),  url('../fonts/SofiaProRegular.otf')  format('opentype'),
+    url('../fonts/SofiaProRegular.woff') format('woff'), url('../fonts/SofiaProRegular.ttf')  format('truetype'), url('../fonts/SofiaProRegular.svg') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+
+/* font-weight: BOLD */
+@font-face {
+    font-family: 'Sofia Pro Bold';
+    src: url('../fonts/SofiaPro-Bold.eot') format('embedded-opentype'),  url('../fonts/SofiaPro-Bold.otf')  format('opentype'),
+    url('../fonts/SofiaPro-Bold.woff') format('woff'), url('../fonts/SofiaPro-Bold.ttf')  format('truetype'), url('../fonts/SofiaPro-Bold.svg') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+
+/* font-weight: MEDIUM */
+@font-face {
+    font-family: 'Sofia Pro Medium';
+    src: url('../fonts/SofiaPro-Medium.eot') format('embedded-opentype'),  url('../fonts/SofiaPro-Medium.otf')  format('opentype'),
+    url('../fonts/SofiaPro-Medium.woff') format('woff'), url('../fonts/SofiaPro-Medium.ttf')  format('truetype'), url('../fonts/SofiaPro-Medium.svg') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+
+
+/* font-weight: LIGHT */
+@font-face {
+    font-family: 'Sofia Pro Light';
+    src: url('../fonts/SofiaPro-Light.eot') format('embedded-opentype'),  url('../fonts/SofiaPro-Light.otf')  format('opentype'),
+    url('../fonts/SofiaPro-Light.woff') format('woff'), url('../fonts/SofiaPro-Light.ttf')  format('truetype'), url('../fonts/SofiaPro-Light.svg') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+
+
+/* Futura PT Web */
+
+/* font-weight: EXTRA BOLD */
+@font-face {
+    font-family: 'Futura PT Extra Bold';
+    src: url('../fonts/FuturaPT-ExtraBold.eot') format('embedded-opentype'),  url('../fonts/FuturaPT-ExtraBold.otf')  format('opentype'),
+    url('../fonts/FuturaPT-ExtraBold.woff') format('woff'), url('../fonts/FuturaPT-ExtraBold.ttf')  format('truetype'), url('../fonts/FuturaPT-ExtraBold.svg') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+

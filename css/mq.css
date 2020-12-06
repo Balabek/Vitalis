@@ -1,0 +1,446 @@
+/*
+▒█▀▄▀█ ▒█▀▀█ ░ ▒█▀▀█ ▒█▀▀▀█ ▒█▀▀▀█
+▒█▒█▒█ ▒█░▒█ ▄ ▒█░░░ ░▀▀▀▄▄ ░▀▀▀▄▄
+▒█░░▒█ ░▀▀█▄ █ ▒█▄▄█ ▒█▄▄▄█ ▒█▄▄▄█
+*/
+
+/* = = = = */
+/* !!!!!!!!!!!!!!!! IMPORTANT !!!!!!!!!!!!!! */
+/* = = = = */
+
+@media screen and (max-width: 767px){
+    #vitalis_nav_collapse_1 {
+        height: 300px;
+        overflow-y: hidden;
+        position: absolute;
+        left: 0;
+        right: 0;
+        padding-left: 28px;
+        width: 105%;
+        margin-top: 28px;
+        background: rgba(255, 255, 255, 0.99);
+        border-top: 2px solid #014fa2;
+        padding-bottom: 6px;
+        padding-top: 6px;
+        z-index: 400;
+    }
+
+    .vitalis_navlinx {top: 0; float: right;}
+    ul.vitalis_navlinx li a {text-align: right;}
+}
+
+
+
+
+
+
+/* = = = = */
+/* >>> >>> >>> ••••• NAVBAR ••••• <<< <<< <<< */
+/* = = = = */
+
+@media screen and (max-width: 991px){
+   a.anchor {font-size: 0.9rem !important;}
+}
+
+@media screen and (max-width: 922px){
+    img.header_logo {top: 10px; width: 215px;}
+    .vitalis_form:hover #searchform {width: 575px;}
+}
+
+@media screen and (max-width: 837px){
+    img.header_logo {top: 16px; width: 185px;}
+    ul.vitalis_navlinx li a {font-size: 0.8rem;}
+}
+
+@media screen and (max-width: 807px){
+    a.anchor {font-size: 0.9rem !important;}
+}
+
+@media screen and (max-width: 775px){
+    a.anchor {font-size: 0.8rem !important;}
+}
+
+@media screen and (max-width: 767px){
+    ul.vitalis_navlinx li a {font-size: 1rem !important;}
+    img.header_logo {top: 5px; width: 300px;}
+    .vitalis_form:hover #searchform {width: 655px;}
+    .vitalis_form {top: 20px; left: 20px;}
+}
+
+@media screen and (max-width: 700px){
+    .vitalis_form:hover #searchform {width: 600px;}
+}
+
+@media screen and (max-width: 650px){
+    .vitalis_form:hover #searchform {width: 500px;}
+}
+
+@media screen and (max-width: 550px){
+    .vitalis_form:hover #searchform {width: 420px;}
+}
+
+@media screen and (max-width: 465px){
+    img.header_logo {top: 11px; width: 220px;}
+    .vitalis_form:hover #searchform {width: 350px;}
+}
+
+@media screen and (max-width: 400px){
+    .vitalis_form:hover #searchform {width: 320px;}
+}
+
+@media screen and (max-width: 350px){
+    .vitalis_form:hover #searchform {width: 270px;}
+}
+
+
+
+
+
+/* = = = = */
+/* >>> >>> >>> ••••• HEADER ••••• <<< <<< <<< */
+/* = = = = */
+
+@media screen and (min-width: 1920px){
+    .vitaslide {height: 900px;}
+}
+
+@media screen and (max-width: 991px){
+    ul.vitalis_navlinx li a {font-size: 1rem;}
+    a.v_main_cta_btn {width: 33%;}
+}
+
+@media screen and (max-width: 767px){
+    hr.vitalis_header_separator {width: 100%;}
+}
+
+@media screen and (max-width: 660px){
+    h3.tagline {font-size: 2.2rem;}
+}
+
+@media screen and (max-width: 590px){
+    .h_banner {top: 25%;}
+    a.v_main_cta_btn {width: 55%;}
+}
+
+@media screen and (max-width: 550px){
+    h3.tagline {font-size: 2rem;}
+}
+
+@media screen and (max-width: 500px){
+    h3.tagline {font-size: 1.8rem;}
+}
+
+@media screen and (max-width: 450px){
+    h3.tagline {font-size: 1.666rem;}
+}
+
+@media screen and (max-width: 418px){
+    h3.tagline {font-size: 1.444rem;}
+}
+
+@media screen and (max-width: 364px){
+    h3.tagline {font-size: 1.222rem;}
+}
+
+
+
+
+/* = = = = */
+/* >>> >>> >>> ••••• ABOUT ••••• <<< <<< <<< */
+/* = = = = */
+
+@media screen and (max-width: 1199px){
+    .about_text_holder {padding-top: 36px;}
+}
+
+@media screen and (max-width: 991px){
+    .about_text_holder {padding-top: 2px;}
+    .about_text_holder {padding-left: 74px;}
+}
+
+@media screen and (max-width: 767px){
+    .about_us_area {padding-top: 5px;}
+
+    .about_image_holder {margin-bottom: 45px;}
+    .about_image {width: 400px; height: 400px; margin: 0 auto;}
+
+    .about_text_holder {text-align: center !important; padding-left: 16px; padding-right: 16px;}
+    h2.subsection_ttl {text-align: center !important;}
+
+    p.about_paragraph {text-align: center;}
+}
+
+@media screen and (max-width: 475px){
+    .about_image {width: 300px; height: 300px;}
+}
+
+@media screen and (max-width: 415px){
+    h2.subsection_ttl {font-size: 2rem;}
+}
+
+@media screen and (max-width: 350px){
+    h2.subsection_ttl {font-size: 1.777rem;}
+}
+
+
+
+
+/* = = = = */
+/* >>> >>> >>> ••••• DUAL BOXES ••••• <<< <<< <<< */
+/* = = = = */
+
+@media screen and (max-width: 970px){
+    h3.box_ttl {font-size: 1.666rem;}
+}
+
+@media screen and (max-width: 874px){
+    h3.box_ttl {font-size: 1.444rem;}
+}
+
+@media screen and (max-width: 806px){
+    h3.box_ttl {font-size: 1.3rem;}
+}
+
+@media screen and (max-width: 767px){
+    h3.box_ttl {font-size: 2rem;}
+    .box_one_holder {margin-bottom: 16px; padding-right: 0;}
+    .upriser_one {left: 0;}
+}
+
+@media screen and (max-width: 603px){
+    .icon_and_title_holder {width: 90%;}
+}
+
+@media screen and (max-width: 494px){
+    h3.box_ttl {font-size: 1.666rem;}
+}
+
+@media screen and (max-width: 437px){
+    h3.box_ttl {font-size: 1.5rem;}
+    p.uprising_paragraph {font-size: 1rem;}
+}
+
+
+
+
+
+
+/* = = = = */
+/* >>> >>> >>> ••••• FAQ ••••• <<< <<< <<< */
+/* = = = = */
+
+@media screen and (max-width: 991px){
+    p.vitalis_question {padding-right: 60px;}
+}
+
+@media screen and (max-width: 767px){
+    .faq_pills_holder {padding-left: 22px; padding-right: 22px;}
+}
+
+@media screen and (max-width: 555px){
+    p.vitalis_question {font-size: 1.1rem;}
+    p.vitalis_answer {font-size: 1rem;}
+    ul.vitalis_answer_list li {font-size: 1rem;}
+}
+
+@media screen and (max-width: 415px){
+    h2.subsection_ttl_centered {font-size: 2rem;}
+}
+
+@media screen and (max-width: 380px){
+    p.vitalis_question {font-size: 1rem;}
+    p.vitalis_answer {font-size: 0.9rem;}
+    ul.vitalis_answer_list li {font-size: 0.9rem;}
+}
+
+
+
+
+
+
+/* = = = = */
+/* >>> >>> >>> ••••• CONTACT ••••• <<< <<< <<< */
+/* = = = = */
+
+@media screen and (max-width: 767px){
+    button.submit_form_btn {width: 30%;}
+}
+
+@media screen and (max-width: 470px){
+    button.submit_form_btn {width: 50%;}
+}
+
+@media screen and (max-width: 350px){
+    h2.subsection_ttl_centered {font-size: 1.777rem;}
+}
+
+
+
+
+
+/* = = = = */
+/* >>> >>> >>> ••••• FOOTER ••••• <<< <<< <<< */
+/* = = = = */
+
+@media screen and (max-width: 1199px){
+    ul.f_linx li a {font-size: 0.8rem;}
+    img.footerlogo {width: 250px;}
+    p.footer_info_txt {font-size: 0.8rem;}
+    .f_phone_number p {font-size: 0.8rem;}
+}
+
+@media screen and (max-width: 991px){
+    p.footer_info_txt {margin-bottom: 20px;}
+    ul.f_linx li a {font-size: 0.6rem;}
+}
+
+@media screen and (max-width: 767px){
+    footer.vitalis_footer {min-height: 600px;}
+    img.footerlogo {width: 300px;}
+    .internal_infobox {float: right;}
+    p.footer_info_txt {margin-top: 10px;}
+
+    .f_infobox {margin-bottom: 24px;}
+    p.footer_info_txt {margin-bottom: 20px;}
+    ul.f_linx li a {font-size: 0.9rem;}
+}
+
+@media screen and (max-width: 660px){
+    .internal_infobox {float: none; text-align: center;}
+    p.footer_info_txt {margin-top: 40px; text-align: center;}
+    img.footerlogo {display: block; margin: 0 auto;}
+
+    .bottommost_stripe {height: 70px;}
+    .afterlines {width: 100%; text-align: center; float: none !important; padding-top: 9px;}
+    ul.v_footer_socialz_holder {text-align: center; display: inline-block;}
+}
+
+@media screen and (max-width: 520px){
+    ul.f_linx li a {font-size: 0.8rem;}
+}
+
+@media screen and (max-width: 474px){
+    .bottommost_stripe {height: 94px;}
+
+    ul.f_linx li a {font-size: 0.7rem;}
+}
+
+@media screen and (max-width: 420px){
+    ul.f_linx li {
+        font-size: 0.6rem;
+        width: 90px;
+        white-space: nowrap;
+        overflow: hidden;
+        text-overflow: ellipsis;
+    }
+    ul.f_linx li a {
+        white-space: nowrap;
+        overflow: hidden;
+        text-overflow: ellipsis;
+    }
+}
+
+@media screen and (max-width: 355px){
+    ul.f_linx li {
+        width: 61px;
+    }
+}
+
+
+
+
+
+/*
+▀█▀ ▒█▄░▒█ ▒█▄░▒█ ▒█▀▀▀ ▒█▀▀█ 　 ▒█▀▀█ ░█▀▀█ ▒█▀▀█ ▒█▀▀▀ ▒█▀▀▀█ 　 ▒█▀▄▀█ ▒█▀▀█ █▀▀
+▒█░ ▒█▒█▒█ ▒█▒█▒█ ▒█▀▀▀ ▒█▄▄▀ 　 ▒█▄▄█ ▒█▄▄█ ▒█░▄▄ ▒█▀▀▀ ░▀▀▀▄▄ 　 ▒█▒█▒█ ▒█░▒█ ▀▀█
+▄█▄ ▒█░░▀█ ▒█░░▀█ ▒█▄▄▄ ▒█░▒█ 　 ▒█░░░ ▒█░▒█ ▒█▄▄█ ▒█▄▄▄ ▒█▄▄▄█ 　 ▒█░░▒█ ░▀▀█▄ ▀▀▀
+*/
+
+@media screen and (max-width: 1199px){
+    .checklist_holder {margin-bottom: 26px;}
+    span.das_check {display: block; float: left;}
+    p.tab_paragraph_checklist {display: block; top: 0;}
+
+    span.decorative_circle_xl {left: 110px;}
+    span.decorative_circle_xl_inverted {right: 110px;}
+    span.decorative_circle_sm {right: 110px;}
+    span.decorative_circle_sm_inverted {left: 110px;}
+
+}
+
+@media screen and (max-width: 991px){
+    button.vereinbaren_btn {width: 33%;}
+
+    span.decorative_circle_xl {left: 55px;}
+    span.decorative_circle_xl_inverted {right: 55px;}
+    span.decorative_circle_sm {right: 55px;}
+    span.decorative_circle_sm_inverted {left: 55px;}
+
+    p.team_memba_role {font-size: 0.77rem;}
+}
+
+@media screen and (max-width: 940px){
+    ul.vitalis_inner_tabz li {width: 100%;}
+    ul.vitalis_inner_tabz li a {
+        width: 100%;
+        margin-right: 0;
+        border-left: none;
+        border-right: none;
+        border-bottom: 1px solid #ffffff;
+    }
+}
+
+@media screen and (max-width: 767px){
+    .central_info_holder {padding-left: 22px; padding-right: 22px;}
+
+    .team_memba_box {width: 100%;}
+    span.decorative_circle_xl {left: 50px;}
+    span.decorative_circle_xl_inverted {right: 50px;}
+    span.decorative_circle_sm {right: 50px;}
+    span.decorative_circle_sm_inverted {left: 50px;}
+
+    .impressum_inner_midmain_box {display: block; width: 96%; margin: 0 auto;}
+
+    .search_results_highlight_area {padding-left: 20px;}
+    .search_results_highlight_midmain_area {padding-left: 20px;}
+
+}
+
+@media screen and (max-width: 730px){
+    .inner_header_area.logopaedie_bgd {background-position: 0 0;}
+}
+
+@media screen and (max-width: 540px){
+    button.vereinbaren_btn {width: 43%;}
+    p.tab_paragraph_checklist {margin-left: 28px;}
+}
+
+@media screen and (max-width: 474px){
+    .inner_title_box h1 {font-size: 3rem;}
+}
+
+@media screen and (max-width: 420px){
+    button.vereinbaren_btn {width: 55%;}
+    .inner_title_box h1 {font-size: 2.7rem;}
+}
+
+@media screen and (max-width: 383px){
+    button.vereinbaren_btn {width: 60%;}
+    .inner_title_box h1 {font-size: 2.3rem; position: relative; top: -8px;}
+}
+
+@media screen and (max-width: 377px){
+    p.impressum_data_piece {margin-left: 60px;}
+}
+
+@media screen and (max-width: 350px){
+    .inner_title_box h1 {font-size: 2rem;}
+
+    span.decorative_circle_xl {left: 30px;}
+    span.decorative_circle_xl_inverted {right: 30px;}
+    span.decorative_circle_sm {right: 30px;}
+    span.decorative_circle_sm_inverted {left: 30px;}
+}
+
+
+
